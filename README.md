@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/vhVqGkxDYxAaRbOWVp" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media4.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e473uegrp6v55e69f6j9zflqy371s8g440vr4i6crly&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=timothyokooboh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
